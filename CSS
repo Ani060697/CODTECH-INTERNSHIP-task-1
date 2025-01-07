@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 100%);
+}
+.head{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+    font-size: 100px;
+    font-style: verdana;
+    text-shadow:  2px 2px white;
+}
+button:hover{
+    background-color: black;
+    color:white ;
+}
+.two{
+    padding: 100px;
+}
+#list{
+    color: black;
+}
+button{
+    display: inline;
+}
+input{
+    padding: 10px;
+    border-style: dotted;
+    color: black;
+
+}
+.delete-btn {
+    background-color: red; 
+    color: white; 
+    border: none; 
+    padding: 5px 10px; 
+    margin-left: 10px; 
+    margin-bottom: 10px;
+    cursor: pointer; 
+    border-radius: 5px; 
+}
+
+.delete-btn:hover {
+    background-color: darkred; 
+}
+    
+
+
